@@ -44,3 +44,13 @@
 * <a href = "https://docs.google.com/presentation/d/1Z5mIxLlI4eBJhnTF6UmMmSdAbxal2XCznNPqBpxYGaA/edit#slide=id.gefaa649001_0_276">Python</a>  
 * <a href = "https://docs.google.com/presentation/d/17Y83uqcxsBIGO5SRGxOSEhNL3BzJsezaOYu4h4mc3wQ/edit#slide=id.g1048a870424_0_0">GameDev</a>  
 * <a href = "https://docs.google.com/presentation/d/1NoPALKtqjfIpoF77e0PC3ZFUmoPGmQStzvlYwLtSYA8/edit#slide=id.p16">IT Design</a>  
+
+**Проекты по курсам:**
+* <a href = "https://goiteens.club/?cat=73">Scratch</a>
+* <a href = "https://goiteens.club/?cat=25">Minecraft</a>
+* <a href = "https://goiteens.club/?cat=71">Design</a>
+* <a href = "https://goiteens.club/?cat=72">GameDev</a>
+* <a href = "https://goiteens.club/?cat=74">HTML+CSS</a>
+* JavaScript
+* FE Junior
+* Python
