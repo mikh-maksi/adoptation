@@ -34,7 +34,7 @@
 * <a href = "https://github.com/mikh-maksi/probes/tree/main/scheme/python">Python</a>
 
 
-** Презентации под индивидуальные пробные:**
+**Презентации под индивидуальные пробные:**
 
 <a href = "https://docs.google.com/presentation/d/1vxMDiESHtBr0DYMuH-N2tOZ8VyOcrBbAFdakVd9OMDo/edit#slide=id.gf0bf12a756_0_550">Scratch</a>  
 <a href = "https://docs.google.com/presentation/d/1NxEQ9eSoGul_J69W7p5WHzOtcrdoTlvlhDg7ZpE3I6A/edit#slide=id.g107f7ddf6ba_0_0">Minecraft</a>  
