@@ -33,6 +33,10 @@
 * <a href = "https://github.com/mikh-maksi/probes/tree/main/scheme/fe">FrontEnd</a>
 * <a href = "https://github.com/mikh-maksi/probes/tree/main/scheme/python">Python</a>
 
+**Материал для установки до курса:**
+* <a href = "https://github.com/mikh-maksi/minecraft-probe/tree/main/language">Minecraft</a>
+* <a href = "https://github.com/mikh-maksi/roblox-probe/tree/main/ua">Roblox</a>
+По остальным курсам - достаточно браузера.
 
 **Презентации под индивидуальные пробные:**
 
