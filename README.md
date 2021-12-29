@@ -35,7 +35,7 @@
 
 **Материал для установки до курса:**
 * <a href = "https://github.com/mikh-maksi/minecraft-probe/tree/main/language">Minecraft</a>
-* <a href = "https://github.com/mikh-maksi/roblox-probe/tree/main/ua">Roblox</a>
+* <a href = "https://github.com/mikh-maksi/roblox-probe/tree/main/ua">Roblox</a>.  
 По остальным курсам - достаточно браузера.
 
 **Презентации под индивидуальные пробные:**
