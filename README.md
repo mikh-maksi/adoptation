@@ -34,6 +34,7 @@
 * <a href = "https://github.com/mikh-maksi/probes/tree/main/scheme/roblox">Roblox</a>
 * <a href = "https://github.com/mikh-maksi/probes/tree/main/scheme/fe">FrontEnd</a>
 * <a href = "https://github.com/mikh-maksi/probes/tree/main/scheme/python">Python</a>
+* <a href = "https://drive.google.com/file/d/1SnSrA2AePeEHeya12BoKhNv2lo9wWQsU/view">IT-Design (материалы)</a>
 
 **Материал для установки до курса:**
 * <a href = "https://github.com/mikh-maksi/minecraft-probe/tree/main/language">Minecraft</a>
